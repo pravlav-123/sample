@@ -1,0 +1,1 @@
+clone is a copy remote repository
